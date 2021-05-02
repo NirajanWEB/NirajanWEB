@@ -1,8 +1,25 @@
 <!--
-**NirajanWEB/NirajanWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NirajanWEB/NirajanWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Nirajan Mahara</h1>
 <h3 align="center">A passionate Full-Stack Developer 🚀</h3>
+
+<p>
+  <em>
+    Around 9 years experience in software development (mobile apps & web). <br>
+	Solid understanding of software development life cycles, UI/UX and Agile methodologies. <br>
+    Deep understanding & passion for full stack application development including Mobile apps, API Design & Cloud infrastructure.<br> 
+	Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/PanchalAmitR/panchalamitr/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
+
+<br>
+
+
+![Nirajan's github stats](https://github-readme-stats.vercel.app/api?username=NirajanWeb&show_icons=true&hide_border=true)
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajanweb&label=Profile%20views&color=0e75b6&style=flat" alt="nirajanweb" /> </p>
 
