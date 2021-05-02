@@ -2,27 +2,23 @@
 **NirajanWEB/NirajanWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Nirajan Mahara</h1>
-<h3 align="center">A passionate Full-Stack Developer 🚀</h3>
+<h3 align="center">A passionate Full-Stack Developer 🚀🚀🚀</h3>
 
 <p>
   <em>
     Around 9 years experience in software development (mobile apps & web). <br>
 	Solid understanding of software development life cycles, UI/UX and Agile methodologies. <br>
     Deep understanding & passion for full stack application development including Mobile apps, API Design & Cloud infrastructure.<br> 
-	Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>&nbsp;<img src="https://github.com/PanchalAmitR/panchalamitr/blob/master/Assets/Medal.gif" width="20px">
+	Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>
   </em>  
 </p>
 
-
 <br>
-
-
 ![Nirajan's github stats](https://github-readme-stats.vercel.app/api?username=NirajanWeb&show_icons=true&hide_border=true)
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanweb&show_icons=true&locale=en&layout=compact" alt="nirajanweb" /></p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajanweb&label=Profile%20views&color=0e75b6&style=flat" alt="nirajanweb" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirajanweb" alt="nirajanweb" /></a> </p>
 
 - 🔭 I’m currently working on [https://www.linkedin.com/in/nirajanmahara/](https://www.linkedin.com/in/nirajanmahara/)
@@ -45,7 +41,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/🚀🚀🚀💵💲💲💰🧧"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="🚀🚀🚀💵💲💲💰🧧" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanweb&show_icons=true&locale=en&layout=compact" alt="nirajanweb" /></p>
 
 
