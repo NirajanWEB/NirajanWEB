@@ -17,7 +17,7 @@
 
 ![Nirajan's github stats](https://github-readme-stats.vercel.app/api?username=NirajanWeb&show_icons=true&hide_border=true)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanweb&show_icons=true&locale=en&layout=compact" alt="nirajanweb" /></p>
+<p><img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanweb&show_icons=true&locale=en&layout=compact" alt="nirajanweb" /></p>
 
 <br>
 
