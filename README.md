@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    Around 9 years experience in software development (mobile apps & web). <br>
+    Around 10 years experience in software development (mobile apps & web). <br>
 	Solid understanding of software development life cycles, UI/UX and Agile methodologies. <br>
     Deep understanding & passion for full stack application development including Mobile apps, API Design & Cloud infrastructure.<br> 
 	Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect</b>
