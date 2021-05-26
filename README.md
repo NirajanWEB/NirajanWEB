@@ -52,11 +52,7 @@
 
 ---
 
-<div>
-  <div align="right">
-
-  </div>
-  
+<div>  
   <div align="left">
     <p align="center">  
       <h3 align="center">
