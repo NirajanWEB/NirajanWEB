@@ -1,6 +1,6 @@
 <!--
 **NirajanWEB/NirajanWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[![Header](https://github.com/nirajanweb/nirajanweb/raw/master/profile.gif)](https://www.adamalston.com/)
+
 <h1 align="center">Hi 👋, I'm Nirajan Mahara</h1>
 <h3 align="center">A passionate Full-Stack Developer 🚀🚀🚀</h3>
 
