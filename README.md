@@ -11,6 +11,12 @@
 
 <h1 align="center">Hi 👋, I'm Nirajan Mahara <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 <h3 align="center">A passionate Full-Stack Developer 🚀🚀🚀</h3>
+	
+<p align="center">
+	I currently am a CS Undergraduate and soon to be a software engineer with a strong level of interest in the development and deployment of web & mobile applications and 	anything that involves computers & software.
+</p>
+
+<hr>
 
 Follow me around the web:
 	<br>
@@ -30,9 +36,9 @@ Follow me around the web:
 </div>
 
 <p>
-    Around 10 years experience in software development (mobile apps & web). <br>
+	Around 10 years experience in software development (mobile apps & web). <br>
 	Solid understanding of software development life cycles, UI/UX and Agile methodologies. <br>
-	  Deep understanding & passion for <b>full stack application development</b> including Mobile apps, API Design & Cloud infrastructure.<br> 
+	Deep understanding & passion for <b>full stack application development</b> including Mobile apps, API Design & Cloud infrastructure.<br>
 	Strong eye for <b>detail</b> and <b>tenacity</b> to never quit on something until it is <b>absolutely perfect.</b>
 </p>
 
