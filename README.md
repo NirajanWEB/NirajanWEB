@@ -4,8 +4,10 @@
 <div align="center">
 	
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="250"/>
 </p>
+
+![header_](https://user-images.githubusercontent.com/69881638/131998830-4ef29b9a-cade-4735-ac6d-101645b95a6f.png)
 
 <br>
 
