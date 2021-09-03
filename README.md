@@ -9,8 +9,8 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Nirajan Mahara <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-<h3 align="center">A passionate Full-Stack Developer 🚀🚀🚀</h3>
+<h1 align="center">Hi 👋, I'm Nirajan Mahara 🚀🚀</h1>
+<h3 align="center">A passionate Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h3>
 	
 <p align="center">
 	I currently am a CS Undergraduate and soon to be a software engineer with a strong level of interest in the development and deployment of web & mobile applications and 	anything that involves computers & software.
@@ -54,14 +54,39 @@ Follow me around the web:
 
 <p align="center">
 <a href="https://github.com/nirajanweb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirajanweb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirajanweb&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajanweb&show_icons=true&locale=en&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanweb&show_icons=true&locale=en&layout=compact&theme=algolia"/>
 </a>
 </p>
 
+## 🔥 Streak Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajanweb&theme=algolia" alt="nirajanweb" /></p>
+
+<br/>
+
+## 📊 Github Stats (Expand to View) 
+
+<details>	
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+	  <a href="https://github.com/nirajanweb"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirajanweb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="nirajanweb" height="192px"/></a>
+	  <a href="https://github.com/nirajanweb"><img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirajanweb&layout=compact&langs_count=8&theme=algolia" alt="nirajanweb" height="192px"/></a>
+	</p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/nirajanweb"><img alt="Nirajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirajanweb&custom_title=Nirajan%20Mahara's%20Contribution%20Graph&theme=react-dark" /></a>
+</details>
+<br/>
+
+<b>Note:</b> Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <hr>
-
-
 
 
 <h3 align="left">🛠&nbsp;Languages and Tools:</h3>
@@ -199,4 +224,4 @@ Follow me around the web:
 
 ---
 
-`Last update on: August 05, 2021`
+`Last update on: September 03, 2021`
