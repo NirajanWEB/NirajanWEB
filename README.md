@@ -3,7 +3,7 @@
 
 <div align="center">
 	
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nirajanweb&label=Profile%20views&color=0e75b6&style=flat" alt="nirajanweb" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nirajanmahara&label=Profile%20views&color=0e75b6&style=flat" alt="nirajanmahara" /> </p>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
@@ -35,14 +35,14 @@
 <a href="https://linkedin.com/in/nirajanmahara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nirajan Mahara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14261447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14261447" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ichuukuptown.wnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-	<a href="https://dev.to/nirajanweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+	<a href="https://dev.to/nirajanmahara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
 <a href="https://www.linkedin.com/in/nirajanmahara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ichuukuptown.wnm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/nirajan.bikram.mahara" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 	<a href="https://www.facebook.com/nirajan.mahara.2003" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/nirajanweb" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/nirajanmahara" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 Follow me around the web:
 	
@@ -59,15 +59,15 @@ Follow me around the web:
 
 
 <p align="center">
-<a href="https://github.com/nirajanweb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajanweb&show_icons=true&locale=en&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanweb&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+<a href="https://github.com/nirajanmahara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajanmahara&show_icons=true&locale=en&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajanmahara&show_icons=true&locale=en&layout=compact&theme=algolia"/>
 </a>
 </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajanweb&theme=algolia" alt="nirajanweb" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajanmahara&theme=algolia" alt="nirajanmahara" /></p>
 
 ## 📊 &nbsp;**This week I spent my time on**
 
@@ -81,22 +81,22 @@ Follow me around the web:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-	  <a href="https://github.com/nirajanweb"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirajanweb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="nirajanweb" height="192px"/></a>
-	  <a href="https://github.com/nirajanweb"><img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirajanweb&layout=compact&langs_count=8&theme=algolia" alt="nirajanweb" height="192px"/></a>
+	  <a href="https://github.com/nirajanmahara"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirajanmahara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="nirajanmahara" height="192px"/></a>
+	  <a href="https://github.com/nirajanmahara"><img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirajanmahara&layout=compact&langs_count=8&theme=algolia" alt="nirajanmahara" height="192px"/></a>
 	</p>
 </details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nirajanweb"><img alt="Nirajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirajanweb&custom_title=Nirajan%20Mahara's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/nirajanmahara"><img alt="Nirajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirajanmahara&custom_title=Nirajan%20Mahara's%20Contribution%20Graph&theme=react-dark" /></a>
 </details>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/nirajanweb/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=nirajanweb&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  <a href='https://profile.codersrank.io/user/nirajanmahara/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=nirajanmahara&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 </details>
 
